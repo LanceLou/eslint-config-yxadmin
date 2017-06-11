@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-yxadmin",
+  "version": "1.0.0",
+  "description": "yx管理系统编码风格(lint style)指南",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LanceLou/eslint-config-yxadmin.git"
+  },
+  "keywords": [
+    "eslint",
+    "style",
+    "netease",
+    "yx"
+  ],
+  "peerDependencies": {
+    "eslint": ">= 3",
+    "babel-eslint": ">=6",
+    "eslint-config-standard": ">=6",
+    "eslint-plugin-angular": ">=1",
+    "eslint-plugin-react": ">=6",
+    "eslint-plugin-standard": ">=3"
+  },
+  "author": "LanceLou <loulincong@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LanceLou/eslint-config-yxadmin/issues"
+  },
+  "homepage": "https://github.com/LanceLou/eslint-config-yxadmin#readme"
+}
